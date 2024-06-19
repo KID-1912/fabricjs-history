@@ -1,0 +1,25 @@
+{
+  "name": "fabricjs-history",
+  "version": "1.0.0",
+  "description": "Maintain fabric history, support undo redo, etc.",
+  "main": "fabric.history.js",
+  "scripts": {},
+  "keywords": [
+    "fabric",
+    "fabricjs",
+    "history"
+  ],
+  "author": "KID-1912",
+  "homepage": "https://github.com/KID-1912/fabricjs-history",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/fabricjs-history"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^5.3.0"
+  },
+  "peerDependencies": {
+    "fabric": "^5.3.0"
+  }
+}
